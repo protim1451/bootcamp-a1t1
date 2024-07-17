@@ -1,0 +1,47 @@
+.container{
+    background-color: aliceblue;
+    margin: 20px 20px 20px 20px;
+}
+
+.products-container{
+    display: flex;
+    justify-content: space-around;
+}
+.products-container img{
+    height: 150px;
+    width: 150px;
+}
+.watch-container{
+    width: 320px;
+    background-color: aqua;
+    padding: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
+.bag-container{
+    width: 320px;
+    background-color:green;
+    padding: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
+.shoe-container{
+    width: 320px;
+    background-color:blue;
+    padding: 30px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
+
+.text{
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
